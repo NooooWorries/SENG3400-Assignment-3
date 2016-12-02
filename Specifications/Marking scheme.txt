@@ -1,0 +1,15 @@
+SENG3400 Assignment 3 marking scheme
+/3 Server registers to ORB
+/3 Client connects to ORB
+/3 Synchronous simulation
+/3 Deferred Synchronous simulation
+/3 Asynchronous simulation
+
+
+SENG6400 Assignment 3 marking scheme
+/3 Server registers to ORB
+/3 Client connects to ORB
+/2 Synchronous simulation
+/2 Deferred Synchronous simulation
+/2 Asynchronous simulation
+/3 Multiple-client support

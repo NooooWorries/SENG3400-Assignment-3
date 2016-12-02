@@ -1,0 +1,14 @@
+module DemoApp
+{
+   interface DemoCallback
+   {
+		oneway void callback(in char random);
+   };
+   
+   interface Demo
+   {
+		char getChar();
+        oneway void getCharAsync(in DemoCallback cb);
+   };
+};
+
